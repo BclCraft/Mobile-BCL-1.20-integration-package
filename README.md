@@ -4,6 +4,8 @@
 
 
 如需下载PC端整合包，请前往[BCL-1.20-integration-package](https://github.com/BclCraft/BCL-1.20-integration-package)的[Releases](https://github.com/BclCraft/BCL-1.20-integration-package/releases)下载。
+
+手机版Minecraft Java启动器推荐：[FCL](https://github.com/FCL-Team/FoldCraftLauncher/)
 ### 整合包支持 - [点击下载](https://github.com/BclCraft/Mobile-BCL-1.20-integration-package/releases)
 | 启动器     | 是否支持导入   | 
 | -------- | -:  |
