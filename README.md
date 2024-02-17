@@ -7,7 +7,7 @@
 ### 整合包支持 - [点击下载](https://github.com/BclCraft/Mobile-BCL-1.20-integration-package/releases)
 | 启动器     | 是否支持导入   | 
 | -------- | -:  |
-| （推荐）[FCL]([https://github.com/Hex-Dragon/PCL2](https://github.com/FCL-Team/FoldCraftLauncher/)      | ✔️  |
+| （推荐）[FCL](https://github.com/FCL-Team/FoldCraftLauncher/)      | ✔️  |
 | ……        |    ……    |
 
 
