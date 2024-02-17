@@ -1,0 +1,370 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20"
+    },
+    {
+      "id": "fabric",
+      "version": "0.14.21"
+    }
+  ],
+  "author": "ByLong_Ge",
+  "description": "",
+  "fileApi": "",
+  "files": [
+    {
+      "hash": "033fbcb5692ac259c8af0c6541e191bd62579347",
+      "path": "servers.dat",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5864ff3c1b2e18303b9e65595a40f66a25daf28f",
+      "path": "mods/[美化][真实物品掉落]ItemPhysicLite_FABRIC_v1.6.2_mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "54aa4ff74c0f8a7dddce2499ca17ec3d521d0f96",
+      "path": "mods/[美化][更好的sodium视频界面]bsvsb-3.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8397ccb8afcf16e7f27e5f0d5ca5c2346ee5330d",
+      "path": "mods/[美化][更多动画] notenoughanimations-fabric-1.6.4-mc1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5444e301346383f6133189e66069e970d4a126fc",
+      "path": "mods/[美化][显示Optifine披风]capes-1.5.2+1.20-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ec1491adc5dffeb0ab2f5da290b32cd4e45d58ad",
+      "path": "mods/[美化][Iris Shader光影加载器]iris-mc1.20-1.6.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "dfa603a2db09d6e303dd2991f016550ae156e3d1",
+      "path": "mods/[显示][进度信息]advancementinfo-1.20-fabric0.83.0-1.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "87f2238e509a274fa1b32831afda625ef96e51f6",
+      "path": "mods/[显示][苹果皮]appleskin-fabric-mc1.20-rc1-2.4.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7cfe4582616798e33a98c23392edce5597febd55",
+      "path": "mods/[显示][聊天头像显示]chat_heads-0.10.16-fabric-1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "289b621da7093e96cfecc0ced97f5b4bf0bc9cc3",
+      "path": "mods/[显示][你在看什么]wthit-fabric-8.0.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "11b29d74a7084012198453d3a539a98b641d10fa",
+      "path": "mods/[显示][mod菜单]modmenu-7.0.0-beta.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "076b4d6ea4eb24d74416641025379a5ab8cf6bb9",
+      "path": "mods/[功能][鼠标手势]itemscroller-fabric-1.20.1-0.20.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f5abb2ba23df3cda0429ce816588b3483b9d14e5",
+      "path": "mods/[功能][输入法冲突修复]imblockerfabric-1.0.24.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6c2d46a3ee31d6d10430b2747d5b42fb1b7a5862",
+      "path": "mods/[功能][游戏内登录]InGameAccountSwitcher-Fabric-1.20-8.0.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "45729e0b259cafdffc3886e5120f887eb811f681",
+      "path": "mods/[功能][更好的F3] BetterF3-7.0.0-Fabric-1.20-pre6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "fb24f41f665f28f4ebb47e6fa87fc81098312a05",
+      "path": "mods/[功能][投影共享]syncmatica-1.20-0.3.9.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c33e1c0a498d67d3b404d4f025340f6e8dcdc013",
+      "path": "mods/[功能][投影]litematica-fabric-1.20.1-0.15.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "bff915406abbc4c9d484415b39c94dae49f20286",
+      "path": "mods/[功能][小地图]Xaeros_Minimap_23.8.3_Fabric_1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6866cf24b3ab5b84c4617477d1a6f4fb68d4d99e",
+      "path": "mods/[功能][基岩矿工]bedrock-miner-1.20-1.1.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c97a35856e067b6000e93690bd8fe7ef7e442450",
+      "path": "mods/[功能][地毯拓展]PluslsCarpetAddition-0.3.163+a95078f-beta.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b4587ad214d6ec69136260e92c35ecd0ff6f2e1a",
+      "path": "mods/[功能][地毯拓展]CarpetTCTCAddition-2.2.198+127ab0a-stable.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "21ae2dd85fb128e936939f4509d0b96821043fec",
+      "path": "mods/[功能][地毯]fabric-carpet-1.20-pre7-1.4.111+v230529.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "20dd0c1c8487011b709bcd5946b7055237121637",
+      "path": "mods/[功能][共享投影]litematica-server-paster-mc1.20.1-v1.1.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e2cc773bb9072fccb94859b3bdd04a66c491f120",
+      "path": "mods/[功能][世界地图]XaerosWorldMap_1.35.0_Fabric_1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "35faefe13d3ae3426b270f154e4e97e9d9f50bdc",
+      "path": "mods/[功能][UHUD]invhud.fabric.1.20-3.4.13.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1b2b2f3095e680cd1a51df95fe30a6cbb6c90854",
+      "path": "mods/[功能][tweakeroo]tweakeroo-fabric-1.20.1-0.17.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5e231c45b67605989ace446496518741d2f3a2ff",
+      "path": "mods/[功能][tweakermore]tweakermore-mc1.20.1-v3.15.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f6ebefbd0ded5c631ba87084dda27a1a22b9498e",
+      "path": "mods/[功能][TMC]TweakMyClient-3.6.398+b6a4f1b-stable.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "41b4595aefd01a0566aaf5342d497f6c9cd5738a",
+      "path": "mods/[功能][R键整理]InventoryProfilesNext-fabric-1.20-1.10.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3bd759daedeab28b99166dfdcb359eabd3183447",
+      "path": "mods/[功能][REI物品管理器]RoughlyEnoughItems-12.0.613.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "229057727abf35e0469527b94d84d96e1770c156",
+      "path": "mods/[功能][Optifine格式连接材质支持]continuity-3.0.0-beta.2+1.19.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b0a9be0b1ea034c1ec2b6b878b4d325cbf2c7e05",
+      "path": "mods/[功能][ommc]oh-my-minecraft-client-1.20-0.5.292+eec667c-beta.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ab371c460a00cb18bfe41c49e5645dfe0e133d65",
+      "path": "mods/[功能][MiniHUD]minihud-fabric-1.20.1-0.27.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "79a1438812da3ba970c77a1b559a94a74f246cf3",
+      "path": "mods/[功能][Gadget]MasaGadget-3.2.308+2c7a07f-stable.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "12f8640074ba225fbca884e5fb306f94ea9264bb",
+      "path": "mods/[功能][c键放大]logical_zoom-0.0.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "33b22da11516a23e8e0852a53ddae42ea249a4a0",
+      "path": "mods/[前置][魔法类库]magiclib-0.7.336+05361cf-stable.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "46c58ce19f6660eb8467bfb00f96db0d0ab1290f",
+      "path": "mods/[前置][真实物品掉落前置]CreativeCore_FABRIC_v2.10.24_mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a9eccfee27c293eb54f5b3df036381852fee1be7",
+      "path": "mods/[前置][一键背包整理]libIPN-fabric-1.20-3.0.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "64ed580b9a7c8d4da646944bd01c775c9aa9cb97",
+      "path": "mods/[前置][wthit]badpackets-fabric-0.4.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ef464e20c7aed85d73f783e9ab85439ef0be81d3",
+      "path": "mods/[前置][REI]architectury-9.0.5-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3c1283dc03a329fca6ef9609e64409087fefa486",
+      "path": "mods/[前置][masa前置]malilib-fabric-1.20.1-0.16.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "98d00c8bb595e7569fadd49290e1a6253d015ed7",
+      "path": "mods/[前置][kotlin语言]fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3b0bcacbb175ae6adbbb2af203fce3a37189e494",
+      "path": "mods/[前置][fabric-api]fabric-api-0.83.0+1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8c59f08cd0e296fbd8ac29af421ed42d7b54c7fe",
+      "path": "mods/[前置][cloth config]cloth-config-11.0.98-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c19b1fb8ffda09f5bd22cbef8691aa6fed181d90",
+      "path": "mods/[优化][锂]lithium-fabric-mc1.20-0.11.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174",
+      "path": "mods/[优化][铟]indium-1.0.18+mc1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6cf2844ca0cfd0b8adb8a0d86e0c635ce0c0f4ef",
+      "path": "mods/[优化][钠·拓展]sodium-extra-0.4.20+mc1.20-build.103.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b11e18bb09f06c3f8028fa2c090072976fa326d0",
+      "path": "mods/[优化][钠]sodium-fabric-mc1.20-0.4.10+build.27.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "48d677bd7a618ebe1b8907cee7bdb832142db028",
+      "path": "mods/[优化][粒子实体优化]ImmediatelyFast-1.1.13.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f803f84109479d6d80367caa853aca2d3d4c6546",
+      "path": "mods/[优化][星光]starlight-1.1.2+fabric.42e9b6f.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7ae3931c0f915177fabbd241eca2c6f6ca5971c2",
+      "path": "mods/[优化][实体渲染机制优化]entityculling-fabric-1.6.2-mc1.20-rc1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8f8dc48343df6bd07aad944f4fe09f33dc737184",
+      "path": "mods/[优化][动态FPS]dynamic-fps-2.4.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ff2fb322da5ca3edc25b55234e0f883797e18647",
+      "path": "mods/[优化][Reese的钠视频界面]reeses_sodium_options-1.5.1+mc1.20-build.74.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4fd64cabffe5c2160a175101ed8474faf969e6a6",
+      "path": "mods/WorldEditCUI-1.20+01.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3a0811af7f425daab896fbfc38898a22e7af39cf",
+      "path": "mods/[美化][界面背景模糊]blur-3.1.0.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1557391649ec00528fd2383366be141279b28321",
+      "path": "log4j2.xml",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "forceUpdate": false,
+  "launchInfo": {
+    "javaArgument": [],
+    "launchArgument": [],
+    "minMemory": 0
+  },
+  "libraries": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "FCL-BCLcraft",
+  "origin": [],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "url": "",
+  "version": "1.0"
+}
